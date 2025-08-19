@@ -77,8 +77,6 @@ docker-compose up --build
 ```
 
 4. **Access services locally**:
-- Patient Service → [http://localhost:4000/api/patients](http://localhost:4000/api/patients)
-- Auth Service → [http://localhost:4005/auth/login](http://localhost:4005/auth/login)
 - API Gateway → [http://localhost:4004](http://localhost:4004)
 - Swagger/OpenAPI Docs → available per service
 
